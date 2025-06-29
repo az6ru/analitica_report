@@ -1,8 +1,7 @@
-﻿@
+@
 __pycache__/
 *.py[cod]
 *.xlsx
 report_imgs/
 *.pdf
-*.html
 .venv/
